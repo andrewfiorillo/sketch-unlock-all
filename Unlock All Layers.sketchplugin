@@ -1,4 +1,3 @@
-// (shift cmd U)
 
 var doc = context.document;
 var page = doc.currentPage();
